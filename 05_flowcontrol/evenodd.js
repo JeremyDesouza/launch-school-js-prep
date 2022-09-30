@@ -1,6 +1,9 @@
-// write a function that determines if argument is an even number
-// assume arg is always an int
+/*
+Exercise 3
 
+write a function that determines if argument is an even number
+
+*/
 
 function evenOrOdd(num) {
   if (Number.isInteger(num)) {

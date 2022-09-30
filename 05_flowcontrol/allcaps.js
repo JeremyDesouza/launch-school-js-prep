@@ -1,7 +1,7 @@
 /*
 Exercise 7
 
-funtion that converts string to all caps if length > 10
+function that converts string to all caps if string length > 10
 
 */
 

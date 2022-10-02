@@ -1,5 +1,5 @@
 /*
-Exercise 3
+Exercise 2 and 3
 
 write a function that determines if argument is an even number
 
